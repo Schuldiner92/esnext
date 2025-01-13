@@ -1,4 +1,6 @@
 
+console.warn('structuredClone()');
+
 const superHeroes = [
     {
         id: 1,
